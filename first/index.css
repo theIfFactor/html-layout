@@ -7,5 +7,10 @@
 .box{
     height: 90vh;
     width: 25%;
-    background: #f8f8f8;
+    background: #999;
+    float: left;
+}
+.middle{
+    width: 50%;
+    background: lightseagreen;
 }
