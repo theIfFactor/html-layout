@@ -1,0 +1,11 @@
+.main_header {
+    height: 50px;
+    width: 100%;
+    background: #555; 
+}
+
+.box{
+    height: 90vh;
+    width: 25%;
+    background: #f8f8f8;
+}
